@@ -1,4 +1,4 @@
 ---
 title: "Home"
 ---
-This is some info about me.
+这是我的文章合集。
