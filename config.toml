@@ -7,7 +7,7 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  description = "淡月清云的部落格"
+  description = "淡月清云部落格"
   copyright = "Copyright © 2022 淡月清云"
   dark = "auto"
   highlight = true
