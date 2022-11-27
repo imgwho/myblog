@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title = "Website Name"
+baseURL = "https://lmm.pages.dev"
+title = "imgwho"
 theme = "etch"
 languageCode = "en-US"
 enableInlineShortcodes = true
