@@ -1,7 +1,7 @@
 baseURL = "https://myblog-9x6.pages.dev"
 title = "淡月清云"
 theme = "etch"
-languageCode = "zh-cn"
+languageCode = "en-US"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
