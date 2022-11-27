@@ -16,7 +16,7 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 ## YouTube Privacy Enhanced Shortcode
 
 {{< youtube ZJthWmvUzzc >}}
-
+应该是可以中文的
 <br>
 
 ---
