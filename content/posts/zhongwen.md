@@ -1,6 +1,6 @@
 +++
 author = "Hugo Authors"
-title = "Rich Content"
+title = "zhongwen"
 date = "2019-05-10"
 description = "A brief description of Hugo Shortcodes"
 tags = [
