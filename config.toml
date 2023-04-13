@@ -1,5 +1,5 @@
 baseURL = "https://blog.imgwho.com"
-title = "淡月清云"
+title = "imgwho"
 theme = "etch"
 languageCode = "en-US"
 enableInlineShortcodes = true
